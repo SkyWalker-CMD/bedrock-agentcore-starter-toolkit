@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.1.26] - 2025-10-14
+
+### Changes
+
+- Update uv.lock with the latest AgentCore SDK (39d0b67)
+- Implement 3LO Server on localhost:8081 to handle generating OAuth2 tokens (b516960)
+- docs: enhance quickstart guides with improved structure and troubleshooting (#279) (19203e9)
+- chore: bump version to 0.1.25 (#278) (57f1d40)
+- docs: remove preview verbiage following Bedrock AgentCore GA release (#277) (232f172)
+- chore: Add InvokeAgentRuntimeForUser permissions (#275) (9c8a50e)
+- chore: bump version to 0.1.24 (#276) (316fc02)
+- chore: remove workload access permissions from runtime execution policy (#274) (0f5ca36)
+- docs: Add non-admin user permissions to quickstart (#271) (4599529)
+- chore: bump version to 0.1.23 (#272) (598b292)
+- feat: Improve multi-agent entrypoint handling (#270) (bf24fca)
+- improve memory lifecycle management  (#253) (500d4f4)
+- Update agentcore-quickstart-example.md (#269) (4b659b8)
+- docs: streamline quickstart guide language and formatting (#268) (a269d39)
+- docs: improve quickstart prerequisites and region handling (#266) (c1644df)
+- chore: bump version to 0.1.22 (#263) (77bf849)
+- Enhanced configuration management with source_path support and improved build workflow (#262) (949abae)
+- feat: add request_header support for runtime config (#260) (e811f4f)
+- fix: add non-interactive flag to integration tests (#261) (c99b5ee)
+- Support vpc (#221) (8a9c3b4)
+
 ## [0.1.25] - 2025-10-13
 
 ### Changes
